@@ -9,6 +9,6 @@ entries:
     name: simplewebserver-app
     type: application
     urls:
-    - https://github.com/perfektsoft1/simplewebserver-chart.git/simplewebserver-app-0.1.0.tgz
+    - https://perfektsoft1.github.io/simplewebserver-chart/simplewebserver-app-0.1.0.tgz
     version: 0.1.0
 generated: "2024-02-27T22:39:40.607239668Z"
