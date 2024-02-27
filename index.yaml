@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  simplewebserver-app:
+  - apiVersion: v2
+    appVersion: "1.03"
+    created: "2024-02-27T22:39:40.608137349Z"
+    description: A Helm chart for Kubernetes
+    digest: d6e14fc214c5f58fb27f2379113c78ec750cb0d50cd66b9f43bbe105492da430
+    name: simplewebserver-app
+    type: application
+    urls:
+    - https://github.com/perfektsoft1/simplewebserver-chart.git/simplewebserver-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-27T22:39:40.607239668Z"
